@@ -1,0 +1,54 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container{
+    width: 1406px;
+}
+
+header{
+    background-color: aqua;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+h1,p {
+    display: inline-block;
+    padding: 0.3em;
+    width: 400px;
+}
+
+#content{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+span{
+    font-weight: bold;
+}
+
+#formacion{
+    display: inline-block;
+    width: 60%;
+    vertical-align: top;
+}
+
+#imagen{
+    display: inline-block;
+    margin-top: 40px;
+    margin-left: 40px;
+    width: 32%;    
+}
+
+h3{
+    background-color: gray;
+    padding: 5px;
+    margin-top: 40px;
+}
+
+dt{
+    margin-top: 15px;
+    margin-bottom: 8px;    
+}
